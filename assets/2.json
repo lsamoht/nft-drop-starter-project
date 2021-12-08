@@ -1,0 +1,24 @@
+{
+    "name": "R2 D2",
+    "symbol": "",
+    "description": "Bleep Bleep",
+    "image": "2.png",
+    "collection": {
+        "name": "Star Pixels",
+        "family": "Star Pixels"
+     },
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "3rsNUW47Lq3mFvPq9aBMJfpZMaWWQ4jyWrkRM3jCRnNP",
+          "share": 100
+        }
+      ]
+    }
+  }

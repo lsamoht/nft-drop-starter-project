@@ -1,0 +1,24 @@
+{
+    "name": "Baby Yoda",
+    "symbol": "",
+    "description": "His name is Grogu",
+    "image": "0.png",
+    "collection": {
+        "name": "Star Pixels",
+        "family": "Star Pixels"
+     },
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "3rsNUW47Lq3mFvPq9aBMJfpZMaWWQ4jyWrkRM3jCRnNP",
+          "share": 100
+        }
+      ]
+    }
+  }
